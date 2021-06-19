@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Way 1st</string>
+    <string name="login_email_hint">E-mail</string>
+    <string name="login_password_hint">Password</string>
+    <string name="intro" translatable="false">Already \nhave an \nAccount?</string>
+    <string name="loginppl" translatable="false">loginppl</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="name">Name</string>
+    <string name="intro2" translatable="false">Here’s\nyour first\nstep with \nus!</string>
+    <string name="registerppl" translatable="false">registerppl</string>
+    <string name="phone_number">Phone number</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+
+    <!--    for Dialog   -->
+    <string name="title">Confirm Code</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="msg" translatable="false">We will sent the varification code within a sms Message</string>
+    <string name="varificatin_code"> Enter varificatin code here </string>
+
+
+    <!--    facebook   -->
+    <string name="facebook_app_id" translatable="false">140911910672871</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb140911910672871</string>
+</resources>

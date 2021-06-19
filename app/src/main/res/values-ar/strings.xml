@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"My Way "</string>
+    <string name="varificatin_code" translatable="false">أدخل رمز التحقق</string>
+    <string name="ok" translatable="false">حسناً</string>
+    <string name="cancel">إلغاء</string>
+    <string name="title">تأكيد رمز التحقق</string>
+    <string name="already_have_an_account">هل لديك حساب؟</string>
+    <string name="register">تسجيل</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="name">الإسم</string>
+    <string name="use_other_methods">تسجيل الحساب بطرق أُخرى</string>
+    <string name="new_user_register_now">مستخدم جديد،سجل الأن!</string>
+    <string name="login">دخول</string>
+    <string name="forgot_password" translatable="false">هل نسيت كلمة المرور؟</string>
+    <string name="login_email_hint">البريد الإلكتروني</string>
+    <string name="login_password_hint">رقم السري</string>
+</resources>

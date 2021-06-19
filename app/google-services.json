@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "91493129187",
+    "firebase_url": "https://my-way-3rd.firebaseio.com",
+    "project_id": "my-way-3rd",
+    "storage_bucket": "my-way-3rd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91493129187:android:7955f8cf6c77b5b8601ed6",
+        "android_client_info": {
+          "package_name": "com.example.mywar3rd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91493129187-6qmkd08k0inu5tclicn61cmn88ovrud2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVX193XzeTsJn8f7g9EmBS_vZ9MNfvwmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91493129187-6qmkd08k0inu5tclicn61cmn88ovrud2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
